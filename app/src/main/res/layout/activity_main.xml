@@ -19,11 +19,20 @@
         android:layout_width="match_parent"
         android:hint="Introduce un mensaje"
         android:layout_margin="15dp"
+        android:id="@+id/textomensaje"
         android:layout_height="wrap_content" />
     <Button
         android:layout_width="match_parent"
         android:text="Compartir"
         android:background="@color/colorAccent"
         android:textColor="@color/blanco"
+        android:id="@+id/enviar"
         android:layout_height="wrap_content" />
+
+    <!-- Pasos para programar
+    1- Poner un id a nuestros componentes
+    2-
+
+
+    -->
 </LinearLayout>
